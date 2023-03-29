@@ -1,0 +1,128 @@
+{
+  "message": {
+    "status": "success",
+    "code": "frontend-exercise data fetched",
+    "text": "sucessfully fetched frontend-exercise data"
+  },
+  "payload": {
+    "data": [
+      {
+        "id": 1,
+        "author": "Special developer",
+        "title": "QA in 2022",
+        "dateAdded": "2023-01-20",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 12
+      },
+      {
+        "id": 2,
+        "author": "Testing enthusiast",
+        "title": "Why testing is awesome",
+        "dateAdded": "2022-01-10",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 45
+      },
+      {
+        "id": 3,
+        "author": "Max Cypress",
+        "title": "Do you know Cypress?",
+        "dateAdded": "2022-01-21",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 37
+      },
+      {
+        "id": 4,
+        "author": "Jenny Musterfrau",
+        "title": "Is JS better than PHP?",
+        "dateAdded": "2021-12-20",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 26
+      },
+      {
+        "id": 5,
+        "author": "Andreas FrontendOps",
+        "title": "DevOps and modern frontend-development",
+        "dateAdded": "2021-12-05",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 14
+      },
+      {
+        "id": 6,
+        "author": "Markus Grindl",
+        "title": "VueJs - Why it's awesome",
+        "dateAdded": "2021-11-15",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 18
+      },
+      {
+        "id": 7,
+        "author": "Martin Holger",
+        "title": "Nuxt introduction",
+        "dateAdded": "2022-01-09",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 25
+      },
+      {
+        "id": 8,
+        "author": "Klaus Dietmar",
+        "title": "Don't forget testing",
+        "dateAdded": "2020-07-19",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 56
+      },
+      {
+        "id": 9,
+        "author": "Martin Holger",
+        "title": "Why cypress is great for e2e testing",
+        "dateAdded": "2019-02-25",
+        "images": [
+          {
+            "portrait": ["https://picsum.photos/900/1600", "https://picsum.photos/450/800"],
+            "landscape": ["https://picsum.photos/1600/900", "https://picsum.photos/800/450"]
+          }
+        ],
+        "likes": 68
+      }
+    ]
+  }
+}
