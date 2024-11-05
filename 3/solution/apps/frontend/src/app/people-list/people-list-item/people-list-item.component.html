@@ -1,0 +1,12 @@
+<div
+  class="card-container p-5 bg-white border border-gray-200 rounded-lg shadow-lg hover:shadow-2xl transition-transform duration-300 transform hover:-translate-y-1"
+>
+  <h2 class="card-title text-lg font-semibold text-gray-700 mb-2">
+    {{ item().name }}
+  </h2>
+  <div class="card-details text-gray-500">
+    <p><strong>Birth Year:</strong> {{ item().birth_year }}</p>
+    <p><strong>Homeworld:</strong> {{ item().homeworld.name }}</p>
+    <p><strong>Terrain:</strong> {{ item().homeworld.terrain }}</p>
+  </div>
+</div>
